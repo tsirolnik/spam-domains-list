@@ -1,7 +1,7 @@
 # spam-domains-list
 A list of spam/temporary/DAE email domains.
 
-The lsit contains **54106 domains**. 
+The lsit contains **51648 domains**. 
 
 The data is a combination from four lists - 
 
